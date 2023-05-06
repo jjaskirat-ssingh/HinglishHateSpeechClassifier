@@ -1,6 +1,6 @@
 # HinglishHateSpeechClassifier
 
-Classifying tweets into Non-Offensive, Hate Speech and Abusive using classical supervised machine learning algorithm.
+Classifying tweets into Non-Offensive, Hate Speech and Abusive using classical supervised machine learning algorithms.
 
 #### Hinglish: 
 Hinglish is a common tongue found in casual conversations where a combination of Hindi and English phrases are used together in the same context.
